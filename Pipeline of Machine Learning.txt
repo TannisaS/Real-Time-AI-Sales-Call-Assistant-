@@ -1,0 +1,44 @@
+Pipeline of Machine Learning 
+
+1
+Why is data gathering a critical first step in the machine learning workflow?
+Data gathering provides the foundation for training and testing models, ensuring they are representative of real-world scenarios.
+
+2
+What is the purpose of the training and testing phases in the workflow?
+The purpose of the training and testing phases in the workflow is to ensure that the model can learn patterns from the data and generalize its knowledge to make accurate predictions on new, unseen data.
+
+3
+Why is model evaluation crucial in the machine learning workflow?
+Model evaluation measures the performance of the model and ensures its effectiveness on new, unseen data.
+
+4
+What is the key distinction between supervised and unsupervised learning?
+Supervised learning uses labeled data, while unsupervised learning works with unlabeled data to find patterns.
+
+5
+Select the correct example of a real-world application for each type of machine learning.
+Supervised learning in email spam filtering, unsupervised learning in customer segmentation, and reinforcement learning in training self-driving cars.
+
+6
+Select the correct machine learning type for Supervised learning
+Uses labeled data to make predictions based on previously known outcomes.
+
+7
+What is the difference between supervised and unsupervised machine learning?. Which of the following statements are true?
+Supervised learning is used when we want to predict a certain outcome from a given input.
+The goal for unsupervised learning is to model the underlying structure or distribution in the data.
+
+8
+Select which of the following scenarios are regression problems.
+Predict the score that a student will achieve in an exam whose grade can be 0.1, 2,. . . , 10
+Predict how much a company will spend on electricity the next semester.
+
+9
+Select which of the following scenarios are classification problems.
+An algorithm is trained to recognize spam email by learning the characteristics of what constitutes spam vs non-spam email.
+Determine whether a customer is likely to purchase more items or not
+
+10
+Suppose you want to develop a supervised machine learning model to predict whether a superhero will fly or not. Which of the following statements are true?
+A classification model provide the best approach.
