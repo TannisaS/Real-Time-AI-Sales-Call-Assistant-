@@ -1,0 +1,661 @@
+{
+    "John Doe": {
+        "past_purchases": [
+            "Laptop"
+        ],
+        "interests": [
+            "Electronics",
+            "Gaming"
+        ]
+    },
+    "Jane Smith": {
+        "past_purchases": [
+            "Running Shoes"
+        ],
+        "interests": [
+            "Fitness",
+            "Sports"
+        ]
+    },
+    "Evelyn Martin": {
+        "past_purchases": [
+            "Dumbbells",
+            "Bicycle"
+        ],
+        "interests": [
+            "Photography",
+            "DIY"
+        ]
+    },
+    "Logan Anderson": {
+        "past_purchases": [
+            "Bicycle"
+        ],
+        "interests": [
+            "Automobiles"
+        ]
+    },
+    "Liam Thomas": {
+        "past_purchases": [
+            "Headphones",
+            "Fitness Tracker"
+        ],
+        "interests": [
+            "Fashion"
+        ]
+    },
+    "Lily Miller": {
+        "past_purchases": [
+            "Coffee Maker",
+            "Fitness Tracker"
+        ],
+        "interests": [
+            "Fashion",
+            "Investing"
+        ]
+    },
+    "Grace Davis": {
+        "past_purchases": [
+            "Tablet",
+            "Bicycle",
+            "Backpack"
+        ],
+        "interests": [
+            "Travel",
+            "Electronics",
+            "Cooking"
+        ]
+    },
+    "Sophia Johnson": {
+        "past_purchases": [
+            "Wireless Earbuds",
+            "Yoga Mat",
+            "Dumbbells"
+        ],
+        "interests": [
+            "Streaming",
+            "Investing"
+        ]
+    },
+    "Michael Miller": {
+        "past_purchases": [
+            "Books",
+            "Smartwatch"
+        ],
+        "interests": [
+            "Books",
+            "Sports",
+            "Movies"
+        ]
+    },
+    "Charlotte Moore": {
+        "past_purchases": [
+            "Smartphone",
+            "Treadmill"
+        ],
+        "interests": [
+            "DIY"
+        ]
+    },
+    "Chloe Garcia": {
+        "past_purchases": [
+            "Monitor",
+            "Dumbbells",
+            "Electric Scooter"
+        ],
+        "interests": [
+            "Music",
+            "Movies"
+        ]
+    },
+    "Emma Miller": {
+        "past_purchases": [
+            "Smartphone"
+        ],
+        "interests": [
+            "Cycling",
+            "Technology"
+        ]
+    },
+    "Grace Williams": {
+        "past_purchases": [
+            "Wireless Earbuds",
+            "Running Shoes",
+            "Books"
+        ],
+        "interests": [
+            "Fitness",
+            "Movies"
+        ]
+    },
+    "Amelia Jackson": {
+        "past_purchases": [
+            "Smartwatch"
+        ],
+        "interests": [
+            "Investing",
+            "Gaming"
+        ]
+    },
+    "Scarlett Harris": {
+        "past_purchases": [
+            "Coffee Maker",
+            "Headphones",
+            "Backpack"
+        ],
+        "interests": [
+            "Cycling",
+            "Music",
+            "Fitness"
+        ]
+    },
+    "Harper Williams": {
+        "past_purchases": [
+            "Cookware Set",
+            "Smartphone"
+        ],
+        "interests": [
+            "Outdoors",
+            "Cooking"
+        ]
+    },
+    "Lucas Miller": {
+        "past_purchases": [
+            "Wireless Earbuds",
+            "Camera"
+        ],
+        "interests": [
+            "Photography"
+        ]
+    },
+    "Benjamin Williams": {
+        "past_purchases": [
+            "Dumbbells",
+            "Tablet"
+        ],
+        "interests": [
+            "DIY"
+        ]
+    },
+    "Ella Thomas": {
+        "past_purchases": [
+            "Electric Scooter",
+            "Treadmill",
+            "Smartphone"
+        ],
+        "interests": [
+            "Fitness",
+            "Outdoors",
+            "Health"
+        ]
+    },
+    "Amelia Martin": {
+        "past_purchases": [
+            "Cookware Set",
+            "Streaming Subscription"
+        ],
+        "interests": [
+            "DIY"
+        ]
+    },
+    "Henry Williams": {
+        "past_purchases": [
+            "Electric Scooter"
+        ],
+        "interests": [
+            "Books",
+            "Gaming"
+        ]
+    },
+    "Mason Davis": {
+        "past_purchases": [
+            "Home Theater System",
+            "Smartwatch"
+        ],
+        "interests": [
+            "Outdoors",
+            "Music"
+        ]
+    },
+    "Evelyn Wilson": {
+        "past_purchases": [
+            "Headphones",
+            "Home Theater System"
+        ],
+        "interests": [
+            "Photography"
+        ]
+    },
+    "Grace Rodriguez": {
+        "past_purchases": [
+            "Headphones",
+            "Smartphone"
+        ],
+        "interests": [
+            "DIY"
+        ]
+    },
+    "Evelyn White": {
+        "past_purchases": [
+            "Cookware Set",
+            "Treadmill"
+        ],
+        "interests": [
+            "DIY"
+        ]
+    },
+    "Noah Thompson": {
+        "past_purchases": [
+            "Tablet",
+            "Camera"
+        ],
+        "interests": [
+            "Outdoors",
+            "Electronics",
+            "Photography"
+        ]
+    },
+    "Ava Johnson": {
+        "past_purchases": [
+            "Smartwatch"
+        ],
+        "interests": [
+            "Fitness",
+            "Movies"
+        ]
+    },
+    "Liam Wilson": {
+        "past_purchases": [
+            "Yoga Mat"
+        ],
+        "interests": [
+            "Sports"
+        ]
+    },
+    "Liam Davis": {
+        "past_purchases": [
+            "Dumbbells"
+        ],
+        "interests": [
+            "Travel",
+            "Fitness"
+        ]
+    },
+    "Evelyn Johnson": {
+        "past_purchases": [
+            "Wireless Earbuds",
+            "Tablet"
+        ],
+        "interests": [
+            "Cycling"
+        ]
+    },
+    "Benjamin Johnson": {
+        "past_purchases": [
+            "Fitness Tracker",
+            "Streaming Subscription",
+            "Backpack"
+        ],
+        "interests": [
+            "Automobiles",
+            "DIY",
+            "Movies"
+        ]
+    },
+    "Mason Jones": {
+        "past_purchases": [
+            "Running Shoes",
+            "Wireless Earbuds"
+        ],
+        "interests": [
+            "Sports",
+            "Gaming"
+        ]
+    },
+    "James Martin": {
+        "past_purchases": [
+            "Yoga Mat",
+            "Treadmill",
+            "Smartphone"
+        ],
+        "interests": [
+            "Movies",
+            "Cycling"
+        ]
+    },
+    "Mia Johnson": {
+        "past_purchases": [
+            "Headphones"
+        ],
+        "interests": [
+            "DIY"
+        ]
+    },
+    "Chloe Moore": {
+        "past_purchases": [
+            "Backpack",
+            "Fitness Tracker",
+            "Desk Chair"
+        ],
+        "interests": [
+            "Music",
+            "Investing",
+            "Electronics"
+        ]
+    },
+    "Isabella Jackson": {
+        "past_purchases": [
+            "Smartwatch",
+            "Coffee Maker"
+        ],
+        "interests": [
+            "Investing",
+            "Books"
+        ]
+    },
+    "James Martinez": {
+        "past_purchases": [
+            "Yoga Mat"
+        ],
+        "interests": [
+            "Cycling",
+            "Fashion"
+        ]
+    },
+    "Henry White": {
+        "past_purchases": [
+            "Cookware Set",
+            "Smartphone",
+            "Running Shoes"
+        ],
+        "interests": [
+            "DIY"
+        ]
+    },
+    "Evelyn Thompson": {
+        "past_purchases": [
+            "Electric Scooter",
+            "Home Theater System",
+            "Wireless Earbuds"
+        ],
+        "interests": [
+            "Technology",
+            "Outdoors"
+        ]
+    },
+    "Sophia White": {
+        "past_purchases": [
+            "Camera"
+        ],
+        "interests": [
+            "Fitness",
+            "Health"
+        ]
+    },
+    "Olivia Garcia": {
+        "past_purchases": [
+            "Home Theater System",
+            "Yoga Mat"
+        ],
+        "interests": [
+            "DIY",
+            "Books",
+            "Cycling"
+        ]
+    },
+    "Jack Brown": {
+        "past_purchases": [
+            "Running Shoes"
+        ],
+        "interests": [
+            "Streaming"
+        ]
+    },
+    "Chloe Thompson": {
+        "past_purchases": [
+            "Electric Scooter",
+            "Treadmill"
+        ],
+        "interests": [
+            "Movies",
+            "Health"
+        ]
+    },
+    "Lily Jones": {
+        "past_purchases": [
+            "Bicycle"
+        ],
+        "interests": [
+            "Technology"
+        ]
+    },
+    "Evelyn Anderson": {
+        "past_purchases": [
+            "Smartphone",
+            "Tablet"
+        ],
+        "interests": [
+            "Books"
+        ]
+    },
+    "Harper Anderson": {
+        "past_purchases": [
+            "Yoga Mat",
+            "Smartwatch",
+            "Streaming Subscription"
+        ],
+        "interests": [
+            "Fashion"
+        ]
+    },
+    "Ava Thompson": {
+        "past_purchases": [
+            "Headphones",
+            "Smartwatch"
+        ],
+        "interests": [
+            "Gaming"
+        ]
+    },
+    "Sophia Martin": {
+        "past_purchases": [
+            "Smartphone",
+            "Electric Scooter",
+            "Monitor"
+        ],
+        "interests": [
+            "Cycling",
+            "Sports",
+            "Books"
+        ]
+    },
+    "Chloe Brown": {
+        "past_purchases": [
+            "Home Theater System",
+            "Coffee Maker"
+        ],
+        "interests": [
+            "Streaming",
+            "Outdoors"
+        ]
+    },
+    "Liam Taylor": {
+        "past_purchases": [
+            "Fitness Tracker"
+        ],
+        "interests": [
+            "Movies",
+            "Outdoors"
+        ]
+    },
+    "Michael Taylor": {
+        "past_purchases": [
+            "Fitness Tracker",
+            "Streaming Subscription",
+            "Cookware Set"
+        ],
+        "interests": [
+            "Travel",
+            "Electronics"
+        ]
+    },
+    "Daniel Garcia": {
+        "past_purchases": [
+            "Streaming Subscription",
+            "Backpack"
+        ],
+        "interests": [
+            "DIY",
+            "Automobiles",
+            "Electronics"
+        ]
+    },
+    "Charlotte Davis": {
+        "past_purchases": [
+            "Dumbbells",
+            "Smartwatch"
+        ],
+        "interests": [
+            "Music",
+            "Health",
+            "Fashion"
+        ]
+    },
+    "Alexander Johnson": {
+        "past_purchases": [
+            "Headphones",
+            "Smartphone"
+        ],
+        "interests": [
+            "Travel",
+            "Electronics"
+        ]
+    },
+    "Mason Wilson": {
+        "past_purchases": [
+            "Running Shoes"
+        ],
+        "interests": [
+            "Outdoors",
+            "Electronics",
+            "DIY"
+        ]
+    },
+    "Mia Wilson": {
+        "past_purchases": [
+            "Yoga Mat",
+            "Desk Chair",
+            "Coffee Maker"
+        ],
+        "interests": [
+            "Photography",
+            "Movies",
+            "Automobiles"
+        ]
+    },
+    "Sophia Taylor": {
+        "past_purchases": [
+            "Smartphone"
+        ],
+        "interests": [
+            "Fashion",
+            "Music"
+        ]
+    },
+    "Benjamin Miller": {
+        "past_purchases": [
+            "Smartphone",
+            "Wireless Earbuds"
+        ],
+        "interests": [
+            "Outdoors",
+            "Electronics"
+        ]
+    },
+    "Lucas Martin": {
+        "past_purchases": [
+            "Gaming Console",
+            "Backpack",
+            "Monitor"
+        ],
+        "interests": [
+            "Fitness",
+            "Fashion"
+        ]
+    },
+    "Evelyn Martinez": {
+        "past_purchases": [
+            "Smartphone",
+            "Home Theater System",
+            "Desk Chair"
+        ],
+        "interests": [
+            "Health",
+            "Fitness"
+        ]
+    },
+    "Mason Martin": {
+        "past_purchases": [
+            "Gaming Console",
+            "Electric Scooter",
+            "Fitness Tracker"
+        ],
+        "interests": [
+            "Fashion",
+            "Travel",
+            "Photography"
+        ]
+    },
+    "Pratheek Rao K B": {
+        "past_purchases": [
+            "Laptop",
+            "Mobile Phone"
+        ],
+        "interests": [
+            "Playing Cricket",
+            "Watching Movies"
+        ]
+    },
+    "Suhaib": {
+        "past_purchases": [
+            "Laptop",
+            "Phone",
+            "Earphone"
+        ],
+        "interests": [
+            "Coding",
+            "Computer Games",
+            "Watching Movies"
+        ]
+    },
+    "Akshath": {
+        "past_purchases": [
+            "Books",
+            " TV"
+        ],
+        "interests": [
+            "Reading Books"
+        ]
+    },
+    "Neenavath": {
+        "past_purchases": [
+            "Chess Board"
+        ],
+        "interests": [
+            "Chess",
+            "Playing Games"
+        ],
+        "recommendations": []
+    },
+    "Lakshmi Narayan": {
+        "past_purchases": [
+            "Books",
+            "Phone",
+            "Pen"
+        ],
+        "interests": [
+            "Reading Books"
+        ],
+        "recommendations": []
+    }
+}

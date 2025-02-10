@@ -1,0 +1,6 @@
+pandas
+streamlit
+speechrecognition
+nltk
+pytz
+google-generativeai
